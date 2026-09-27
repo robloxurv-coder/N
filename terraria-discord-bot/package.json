@@ -1,0 +1,21 @@
+{
+  "name": "terraria-discord-bot",
+  "version": "1.0.0",
+  "description": "Bot Discord para Terraria Vanilla — desenvolvimento incremental",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "14.27.0"
+  },
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.16.0"
+  }
+}
